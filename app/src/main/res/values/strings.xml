@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+
+    <string name="welcome_msg">Welcome to Expression \n Journal App</string>
+    <string name="register">CREATE A NEW ACCOUNT</string>
+    <string name="sign_in">ALREADY HAVE ACCOUNT</string>
+
+    <string name="name">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="no_text"> </string>
+    <string name="log_in">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="login_button">LOGIN</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="add_task_activity_name">Add a New Task</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This edit task has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your task&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+</resources>
