@@ -9,10 +9,10 @@
     <string name="email_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="no_text"> </string>
-    <string name="log_in">Login</string>
+    <string name="login_button">LOGIN</string>
     <string name="sign_up">Sign up</string>
     <string name="sign_up_button">SIGN UP</string>
-    <string name="login_button">CREATE ACCOUNT</string>
+    <string name="register_button">CREATE ACCOUNT</string>
     <string name="log_out">Log Out</string>
 
     <string name="add_task_activity_name">Add a New Task</string>
